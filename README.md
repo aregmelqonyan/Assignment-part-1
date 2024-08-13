@@ -3,7 +3,7 @@
 ## 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/aregmelqonyan/Assignment-part-1>
+git clone https://github.com/aregmelqonyan/Assignment-part-1
 ```
 
 ## 2. Change Directory
