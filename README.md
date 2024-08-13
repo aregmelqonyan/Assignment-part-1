@@ -1,3 +1,23 @@
+# Usage
+
+## 1. Clone the Repository
+
+```bash
+git clone <https://github.com/aregmelqonyan/Assignment-part-1>
+```
+
+## 2. Change Directory
+```bash
+cd Assignment-part-1
+```
+
+## 3. Run the Application
+
+This command will build and start the application and database containers in detached mode.
+```bash
+docker compose up -d
+```
+
 # Navigating the Swagger UI
 
 ## 1. Accessing Swagger UI
